@@ -1,9 +1,10 @@
 
-public class Demo2 {
+public class ArrayEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("this is demo two program");
+		System.out.println("array class");
+
 	}
 
 }
